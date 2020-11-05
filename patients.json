@@ -2,27 +2,27 @@
     "_id" : ObjectId("5f9f8737982f9f3ef28c0297"),
     "patients" : [ 
         {
-            "Id" : "1",
+            "Id" : 1,
             "Name" : "小民",
             "OrderId" : 1
         }, 
         {
-            "Id" : "2",
+            "Id" : 2,
             "Name" : "小華",
             "OrderId" : 1
         }, 
         {
-            "Id" : "3",
+            "Id" : 3,
             "Name" : "小李",
             "OrderId" : 1
         }, 
         {
-            "Id" : "4",
+            "Id" : 4,
             "Name" : "小強",
             "OrderId" : 1
         }, 
         {
-            "Id" : "5",
+            "Id" : 5,
             "Name" : "小白",
             "OrderId" : 1
         }
